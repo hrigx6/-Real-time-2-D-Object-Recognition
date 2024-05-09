@@ -31,7 +31,8 @@ Refer to the project documentation for detailed instructions on configuration, t
 3. Use the designated key press (e.g., "O") to collect training data for new objects.
 4. The system will display the recognized objects with their labels and other relevant information on the video output.
 
-## To see the output check the link in the Report pdf
+## OUTPUT
+To see the output check the link in the Report pdf
 
 ## Contributing
 
